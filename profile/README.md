@@ -2,7 +2,7 @@
 Zanixon Group is a small startup company based in the field of programming, We have a mission to create a program that can be used by many people for free or paid. We always maintain quality and trust to our users!
 
 ### Our service
-- [Amira-MD - WhatsApp Bot](https://s.id/znxnbot)
+- [Amira-MD - WhatsApp Bot](https://wa.me/62856971039025?text=.menu)
 - [Nao-MD - WhatsApp Bot](https://wa.me/6285864034767?text=.menu)
 - [RyzenAPI - Rest API](https://api.ryzendesu.vip)
 - [FastAPI - Rest API](https://fastrestapis.fasturl.cloud)
